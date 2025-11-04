@@ -1,2 +1,2 @@
 sample project
-
+SAMPLE PROJECT TO GIT BASICS
